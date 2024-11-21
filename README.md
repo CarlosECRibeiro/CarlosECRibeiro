@@ -31,7 +31,6 @@ Tecnologias:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog&logoColor=white)
 
 
 
@@ -42,6 +41,8 @@ Frameworks:
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=orange)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
