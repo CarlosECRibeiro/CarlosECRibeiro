@@ -41,8 +41,7 @@ Frameworks:
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=orange)
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -52,3 +51,5 @@ Ferramentas:
 
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
+![Datadog](https://img.shields.io/badge/Datadog-purple?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=orange)
